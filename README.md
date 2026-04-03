@@ -109,7 +109,7 @@ projet-tumeur/
 
 ```bash
 git clone https://github.com/carolembomegni/Projet_SD_Detection_Tumeurs.git
-cd 
+cd Projet_SD_Detection_Tumeurs
 ```
 
 ### 2. Installer les dépendances
@@ -120,7 +120,7 @@ pip install tensorflow keras numpy pandas matplotlib opencv-python scikit-learn
 
 ---
 
-## ## ▶️ Utilisation
+## ▶️ Utilisation
 
 Le projet est principalement développé avec **Google Colab**.
 
@@ -184,10 +184,7 @@ Le projet est principalement développé avec **Google Colab**.
 
 * Un notebook supplémentaire peut être utilisé pour tester des techniques avancées comme le **GAN** pour l’augmentation des données
 
-
----
-
-## 🧪 Méthodologie
+# 🧪 Méthodologie
 
 ### 🔹 Prétraitement
 
